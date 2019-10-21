@@ -7,7 +7,7 @@ This program allows people to add the housepants in their list. For the people t
 
 # Features
 
-This react app runs of course react. It also features mongodb and mongoose to seed the database of houseplants into your own profile.
+Built with React.js and some bootstrap. It also features mongodb and mongoose to seed the data of houseplants into your own profile.
 
 # Installation
 
